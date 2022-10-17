@@ -1,0 +1,15 @@
+.sidebar {
+  position: fixed;
+  width: 100px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  color: white;
+  background-color: rgb(6, 40, 61);
+}
+
+.sidebar a{
+  color:white;
+  margin-left: 0.5px;
+  line-height: 50px;
+}

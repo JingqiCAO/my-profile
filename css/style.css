@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+@import url("components/sidebar.css");
+@import url("components/page-content.css");
+@import url("components/container.css");
+@import url("components/card-white.css");
+@import url("components/introduction.css");
+@import url("components/certificat-and-skill.css");
+@import url("components/prof-experience.css");
+@import url("components/pers-experience.css");
+
+body{
+  font-family: 'Roboto Condensed', sans-serif;
+  line-height: 1.6;
+  font-size: 20px;
+}
+
+h1{
+  font-size: 50px;
+  font-weight: bolder;
+  text-align: center;
+}
+
+h2{
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h3{
+  font-size: 30px;
+  font-weight: bold;
+}

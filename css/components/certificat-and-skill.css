@@ -1,0 +1,37 @@
+.edu_ski_lan{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.card-in{
+  background-color:rgba(71,181,255,0.5);
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+}
+
+.card-in h3{
+  text-align: center;
+  line-height: 1.2;
+}
+
+.cert-list{
+  background-color: rgba(255,255,255,0.7);
+  width: 300px;
+  height: 140px;
+  padding: 10px 0px;
+}
+
+.card-in ul{
+  list-style: none;
+  padding-left: 0px;
+  text-align: center;
+}
+
+.card-in a{
+  text-decoration: none;
+  color: black;
+}
+
+.card-in a:hover {
+  color: rgb(6, 40, 61);
+}

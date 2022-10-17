@@ -1,0 +1,25 @@
+.introduction-list{
+  display: flex;
+}
+
+#list1{
+  flex-grow: 1;
+}
+#list2{
+  flex-grow:1;
+}
+
+.introduction-text{
+  display: block;
+  margin-left: 50px;
+}
+
+.introduction{
+  display: flex;
+  align-items: center;
+}
+
+.introduction ul {
+  list-style: none;
+  padding-left: 0px;
+}
